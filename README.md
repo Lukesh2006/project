@@ -145,7 +145,8 @@ Publish the website in the LocalHost.
 ```
 # OUTPUT:
 
-![project](https://github.com/user-attachments/assets/6065a89b-028c-451e-a863-469454cc3e44)
+![project2](https://github.com/user-attachments/assets/92e5d4d9-d368-4aea-aedf-0778a12d07b3)
+
 
 # RESULT:
 The Project for responsive web design using Bootstrap is completed successfully.
